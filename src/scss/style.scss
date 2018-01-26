@@ -1,8 +1,13 @@
-*, *:after, *:before {
-    box-sizing: border-box;
-}
+@import "_variables.scss";
 
-body {
-    margin:0;
-    background: blue;
-}
+@import "_layout.scss";
+@import "_page-nav.scss";
+
+@import "_main-banner-svg.scss";
+@import "_main-paralax.scss";
+@import "_main-banner.scss";
+@import "_main-love-music.scss";
+
+
+
+
